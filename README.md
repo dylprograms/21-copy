@@ -5,6 +5,9 @@ At this point in the course, you are well aware that GitHub is a very powerful t
 
 
 .
+
+
+
 GitHub Actions is a great solution to this problem. For example, you could create a GitHub action to automatically run a linter against every pull request to ensure the code meets your agreed upon standards. Today, we are going to create such an action.
 
 * Before we begin, check out the [Introduction to GitHub Actions](https://docs.github.com/en/actions/learn-github-actions/introduction-to-github-actions) to get a grasp on some of the core concepts.
